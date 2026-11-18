@@ -46,6 +46,7 @@ app.get("/api/status", (req, res) => {
         projeto: "VIO Web",
         status: "online",
         mensagem: "API VIO online — versão v1.0.1 publicada na Azure.",
+        mensagem2: "SAMIR FACIROLLI DA SILVA - 4 DSM 2026 - FATEC FRANCA"
     });
 
 });
