@@ -45,7 +45,7 @@ app.get("/api/status", (req, res) => {
     res.json({
         projeto: "VIO Web",
         status: "online",
-        mensagem: "API executando corretamente."
+        mensagem: "API VIO online — versão v1.0.1 publicada na Azure.",
     });
 
 });
