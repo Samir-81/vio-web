@@ -74,6 +74,12 @@ function App() {
           </p>
 
           <p>{statusApi?.mensagem}</p>
+
+          <hr />
+
+          <h3>Identificação do estudante</h3>
+
+          <p>{statusApi?.mensagem2}</p>
         </section>
 
         <section className="card">
